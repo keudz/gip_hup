@@ -26,6 +26,7 @@ public class Ex01 {
         if((number + count) > 0 )
         System.out.println("trung binh cong: " + sum / (number + count));
         else System.out.println("khong co trung binh cong");
+        System.out.println("change feature/zoom");
 
     }
 }//xong
